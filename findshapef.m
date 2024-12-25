@@ -1,6 +1,6 @@
 clear;
 
-fp = -3;          % pressure
+fp = 0;          % pressure
 ka = 1;     
 ri = 1e-3;
 rb = 1.0;         % base radius
